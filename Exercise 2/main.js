@@ -15,7 +15,7 @@ console.log("a != b :", a != b);   // false
 console.log("a !== b :", a !== b); // true
 
 // 5. Greater than
-console.log("a > b :", a > b);     // false
+console.log("a > b :", a > b);     // falsegit 
 
 // 6. Greater than or equal to
 console.log("a >= b :", a >= b);   // true (because 15 is equal to 15)
