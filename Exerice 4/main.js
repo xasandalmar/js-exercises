@@ -21,4 +21,4 @@ const greet = function(name) {
 }
 greet("Mohamed Hassan");
 greet("Mumtaz Hassan ");
-greet("Ahmd Hassan");
+greet("Ahmed Hassan");
